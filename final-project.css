@@ -1,0 +1,185 @@
+body {
+  background-image: url("light-wood.jpg");
+  text-align: center;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 70px;
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  text-align: left;
+  font-size: 50px;
+  font-family: 'Dosis', sans-serif;
+  margin: 0px 0px 0px 34px;
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
+}
+
+h4 {
+  margin: 34px;
+  text-align: left;
+}
+
+img {
+  float: left;
+  text-align: center;
+  border-radius: 2%;
+}
+
+p {
+  font-size: 30px;
+  text-align: center;
+}
+
+footer {
+  clear: both;
+  margin: 0 auto;
+}
+
+footer p {
+    font-size: 20px;
+    font-family: 'Dosis', sans-serif;
+}
+
+.picture {
+  background-image: url("coffee-table.jpg");
+  background-size: 960px 620px;
+  width: 800px;
+  height: 600px;
+  margin-top: 40px;
+  margin-left: 240px;
+  margin-bottom: 10px;
+  border-radius: 1%;
+}
+
+section p{
+  display: inline-block;
+  width: 400px;
+  height: 300px;
+  font-family: 'Raleway', sans-serif;
+  font-variant: small-caps;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  margin-top: 160px;
+  border-radius: 1%;
+  margin-left: 0px;
+}
+
+.img-container {
+  float: left;
+  width: 31.5%;
+  height: 530px;
+  padding: 5px;
+}
+
+.shift{
+  margin-right: 0px;
+  margin-left: 30px;
+  padding: 0px;
+}
+
+br {
+  clear: both;
+}
+
+.navbar {
+  text-decoration: none;
+  display: inline;
+  font-variant: small-caps;
+  text-align: center;
+  clear: right;
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Raleway', sans-serif;
+  /* Jenny helped me with my navigation bar */
+}
+
+.else {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-variant: small-caps;
+}
+
+.big {
+  font-size: 30px;
+  text-align: left;
+}
+
+a {
+  text-decoration: none;
+  color: green;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+  text-align: center;
+  border-right: solid white 1px;
+}
+
+ div {
+   margin-left: 33px;
+ }
+
+ol li{
+  text-align: left;
+  font-family: 'Dosis', sans-serif;
+  font-size: 20px;
+  width: 500px;
+  margin-left: 90px;
+}
+
+.right {
+  float: left;
+}
+
+.center {
+  text-align: center;
+}
+
+.move{
+  margin-left: 134px;
+}
+
+table {
+  border-collapse: collapse;
+  margin-left: 134px;
+  width: 1000px;
+  height: 600px;
+}
+
+td {
+  width: 142px;
+}
+
+table tr td {
+  border-style: solid;
+  border-width: 1px;
+  background-color: white;
+  opacity: 0.6;
+}
+
+button{
+  float: left;
+  margin-left: 100px;
+  width: 100px;
+  height: 55px;
+  background-color: #888e99;
+  color: white;
+  border-radius: 4%;
+  font-family: 'Dosis', sans-serif;
+  font-variant: small-caps;
+  font-size: 40px;
+}
